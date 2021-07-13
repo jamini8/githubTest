@@ -1,5 +1,7 @@
 <!doctype html>
 <!-- this is my branch.get out from it -->
+<!-- this is jamini-->
+
 <?php
 $host="localhost";
 $user = "root";
