@@ -1,9 +1,16 @@
 <!doctype html>
 <!-- this is my branch.get out from it -->
 
+
 <!-- this is my master branch.get out from it -->
 
 <!-- this is jamini-->
+
+<!-- this is my branch.get out from it.boo boo -->
+
+
+<!-- this is my branch.get out from it.master -->
+
 
 <?php
 $host="localhost";
