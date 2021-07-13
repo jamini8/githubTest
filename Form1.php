@@ -1,5 +1,6 @@
 <!doctype html>
 <!-- this is my branch.get out from it -->
+<!-- this is my master branch.get out from it -->
 <?php
 $host="localhost";
 $user = "root";
