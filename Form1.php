@@ -1,4 +1,5 @@
 <!doctype html>
+<!-- this is my branch.get out from it -->
 <?php
 $host="localhost";
 $user = "root";
@@ -129,8 +130,7 @@ if(isset($_POST['Search'])){
                         $EDD=$row['EDD'];
                         $US_corrected_EDD=$row['US_corrected_EDD'];
                         $POA_at_dating_Scan=$row['POA_at_dating_Scan'];
-                        $Date_of_Quickening=$row['Date_of_Quickening'];
-                        $POA_at_Registration=$row['POA_at_Registration'];
+                        $POA_at_dating_Scan_1=$row['rty'];
                 
                     }
                 }else{
